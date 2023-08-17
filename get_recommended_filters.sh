@@ -14,6 +14,7 @@ urls=(
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
 )
 
 # loop through the urls and download each file with curl
